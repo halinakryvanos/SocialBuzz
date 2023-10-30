@@ -21,5 +21,4 @@ Score: This is a number calculated by Social Buzz that quantifies how “popular
 
 
 ## Data Model:
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]
-(https://github.com/halinakryvanos/SocialBuzz/blob/main/01%20Project%20Management/Data%20Model.png)
+![image](https://github.com/halinakryvanos/SocialBuzz/blob/main/01%20Project%20Management/Data%20Model.png)
