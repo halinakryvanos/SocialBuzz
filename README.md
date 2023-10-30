@@ -38,4 +38,23 @@ An audit company big data practice
 
 ## Data Analysis and Visualization
 
-Look this Dashboard follow [Tableao](https://public.tableau.com/views/SosialBuzzDashboard_16984171453280/SocialBuzz?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Look this Dashboard follow [Tableao](https://public.tableau.com/views/SosialBuzzDashboard_16984171453280/SocialBuzz?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)  
+
+## Conclusions
+The dataset was prepared by merging relevant columns from the Reaction, Content, and Reaction Types datasets using pandas merge operation.  
+
+The dataset contains a comprehensive collection of social media data with 24,573 unique values spanning from June 18, 2020, to June 18, 2021.  
+
+The top 5 performing categories based on the summed scores were identified using pandas' nlargest function.  
+
+The content analysis reveals that photos are the most prevalent type of content, accounting for 26.8% of the total, while audio content is relatively less common, representing 23.0% of the total. The content types in ascending order of prevalence are audio, Gif, video, and photo.  
+
+In terms of reaction types, the "Heart" reaction is the most commonly used by people, followed by "Scared" and "Peeking." On the other hand, reactions such as "Cherish," "Worried," and "Intrigued" are less frequently used.  
+
+The temporal analysis shows that the highest count of social buzz occurred in June 2021, while the lowest count was observed in March 2021. Monthly counts ranged between 1600 and 2000, indicating a relatively consistent level of social media activity. Weekly counts varied between 430 and 500, suggesting regular engagement throughout the analyzed period.  
+
+The category "Animals" has the highest score, indicating a positive sentiment, while "Public speaking" has the lowest score. The top 5 categories with the highest mean scores are "Animals," "Science", "Healthy eating", "Technology", "Food", while the lowest scores are observed in "Studying", "Dogs", "Tennis", "Veganism", "Public speaking".  
+
+## Recommendations  
+
+Was recommend that the client focus on using visually appealing content, especially photographs, to attract the target audience. Additionally, they can explore topics related to animals, science, healthy eating, technology, food which have demonstrated positive sentiments and high grade. By understanding the dynamics of interaction and sentiment on social media, a client can optimize their content strategy and tailor it to suit the preferences of their audience.
