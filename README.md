@@ -20,3 +20,5 @@ Sentiment: A string detailing whether this type of reaction is considered as pos
 Score: This is a number calculated by Social Buzz that quantifies how “popular” each reaction is. A reaction type with a higher score should be considered as a more popular reaction.
 
 
+## Data Model:
+
