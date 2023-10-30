@@ -31,7 +31,6 @@ An audit company big data practice
 + 
 ## Tasks to do
 + Extraction of sample data sets  
-Merging of sample data set tables  
-Loading of sample data sets into Accenture sandbox database  
-Analysis of sample data sets with visualizations
-Full documentation of the process that we can guide them thro  
++ Merging of sample data set tables    
++ Analysis of sample data sets with visualizations
++ Full documentation of the process that we can guide them thro  
