@@ -33,4 +33,9 @@ An audit company big data practice
 + Extraction of sample data sets  
 + Merging of sample data set tables    
 + Analysis of sample data sets with visualizations
-+ Full documentation of the process that we can guide them thro  
++ Full documentation of the process that we can guide them thro
+
+
+## Data Analysis and Visualization
+
+Look this Dashboard follow [Tableao](https://public.tableau.com/views/SosialBuzzDashboard_16984171453280/SocialBuzz?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
