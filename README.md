@@ -22,3 +22,16 @@ Score: This is a number calculated by Social Buzz that quantifies how “popular
 
 ## Data Model:
 ![image](https://github.com/halinakryvanos/SocialBuzz/blob/main/01%20Project%20Management/Data%20Model.png)
+
+## Business task:
+An audit company big data practice 
+
++ Recommendations for a successful IPO  
++ An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
++ 
+## Tasks to do
++ Extraction of sample data sets  
+Merging of sample data set tables  
+Loading of sample data sets into Accenture sandbox database  
+Analysis of sample data sets with visualizations
+Full documentation of the process that we can guide them thro  
