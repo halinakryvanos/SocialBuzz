@@ -35,7 +35,7 @@ An audit company big data practice
 
 ## Data Analysis and Visualization
 
-Look this Dashboard follow [Tableau](https://public.tableau.com/views/SosialBuzzDashboard_16984171453280/SocialBuzz3?:language=en-US&:display_count=n&:origin=viz_share_link)  
+Look this Dashboard follow the link on [Tableau](https://public.tableau.com/views/SosialBuzzDashboard_16984171453280/SocialBuzz3?:language=en-US&:display_count=n&:origin=viz_share_link)  
 
 ![myimage-alt-tag](https://github.com/halinakryvanos/SocialBuzz/blob/main/03%20Presentation_/Social%20Buzz%20Dashboard.png)
 
