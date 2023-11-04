@@ -30,7 +30,7 @@ An audit company big data practice
 + Extraction of sample data sets  
 + Merging of sample data set tables    
 + Analysis of sample data sets with visualizations
-+ Full documentation of the process that we can guide them throw
++ Full documentation of the process that we can guide them through
 
 
 ## Data Analysis and Visualization
