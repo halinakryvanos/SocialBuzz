@@ -6,7 +6,6 @@ I have been given a set of data sets, all containing different columns and value
 
 It is my job to use these data sets as well as the data model, to create finished data set that I can use to fulfill the requirements of this task.  
 
-![image](https://github.com/halinakryvanos/SocialBuzz/assets/115924234/96210d63-c2eb-4570-a519-111b63a99660)
 
 ## DataSet Summary and Data Model:
 User ID: Unique ID of the user (automatically generated)   
