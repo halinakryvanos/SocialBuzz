@@ -1,7 +1,13 @@
 # SocialBuzz
- This task is essential because it is one of the specific requirements that the client has asked for, so we are relying on the data analyst to work with the data and create accurate, reliable insights that can be backed up during the final presentation.  
- The next step will be bringing the data set to life. A large component of being a data analyst, includes the ability to find relevant insights and ensure that they are clearly communicated to the business and client. These insights should be synthesized and placed in a presentation for the client that is engaging and easily understood.  
- 
+ SocialBuzz a platform designed to connect people around. It allows users to create profiles, follow each other, share photos, and engage in discussions with other users.
+It has a simple and user-friendly interface that allows users to easily navigate the platform. It will also have various features such as search users, like posts, follow & unfollow and post feeds and customizable user settings.
+
+I have been given a set of data sets, all containing different columns and values, as well as a data model. A data model shows the relationships between all of the data sets, as well as any links that I can use to merge tables.
+
+It is my job to use these data sets as well as the data model, to create finished data set that I can use to fulfill the requirements of this task.
+
+![image](https://github.com/halinakryvanos/SocialBuzz/assets/115924234/96210d63-c2eb-4570-a519-111b63a99660)
+
 ## DataSet Summary and Data Model:
 User ID: Unique ID of the user (automatically generated)   
 
