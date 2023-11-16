@@ -26,13 +26,12 @@ Score: This is a number calculated by Social Buzz that quantifies how “popular
 
 
 ## Business task:
-An audit company big data practice 
-
++ An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.  
 + Recommendations for a successful IPO  
-+ An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
   
 ## Tasks to do
-+ Extraction of sample data sets  
++ Extraction of sample data sets
++ Data Cleaning
 + Merging of sample data set tables    
 + Analysis of sample data sets with visualizations
 + Full documentation of the process that we can guide them through
@@ -46,15 +45,15 @@ Follow the link to view the interactive Dashboard. [Tableau](https://public.tabl
 ## Conclusions
 The dataset was prepared by merging relevant columns from the Reaction, Content, and Reaction Types datasets using pandas merge operation.  
 
-The dataset contains a comprehensive collection of social media data with 24,573 unique values spanning from June 18, 2020, to June 18, 2021.  
+The final dataset contains a comprehensive collection of social media data with 24,573 unique values spanning from June 18, 2020, to June 18, 2021.  
 
 The top 5 performing categories based on the summed scores were identified using pandas' nlargest function.  
 
-The content analysis reveals that photos are the most prevalent type of content, accounting for 26.8% of the total, while audio content is relatively less common, representing 23.0% of the total. The content types in ascending order of prevalence are audio, Gif, video, and photo.  
+The content analysis reveals that photos are the most prevalent type of content, accounting for 22,86% positive reactions, while video content is relatively less common, representing 21,40% positive reactions. The content types in ascending order of prevalence are audio, Gif, video, and photo.  
 
 In terms of reaction types, the "Heart" reaction is the most commonly used by people, followed by "Scared" and "Peeking." On the other hand, reactions such as "Cherish," "Worried," and "Intrigued" are less frequently used.  
 
-The temporal analysis shows that the highest count of social buzz occurred in June 2021, while the lowest count was observed in March 2021. Monthly counts ranged between 1600 and 2000, indicating a relatively consistent level of social media activity. Weekly counts varied between 430 and 500, suggesting regular engagement throughout the analyzed period.  
+The temporal analysis shows that the highest count of social buzz occurred in May 2021, while the lowest count was observed in June 202. Monthly counts ranged between 1900 and 2000, indicating a relatively consistent level of social media activity. Weekly counts varied between 430 and 500, suggesting regular engagement throughout the analyzed period.
 
 The category "Animals" has the highest score, indicating a positive sentiment, while "Public speaking" has the lowest score. The top 5 categories with the highest mean scores are "Animals," "Science", "Healthy eating", "Technology", "Food", while the lowest scores are observed in "Studying", "Dogs", "Tennis", "Veganism", "Public speaking".  
 
