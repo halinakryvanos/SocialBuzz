@@ -42,8 +42,7 @@ An audit company big data practice
 
 Follow the link to view the interactive Dashboard. [Tableau](https://public.tableau.com/views/SosialBuzzDashboard_16984171453280/SocialBuzz3?:language=en-US&:display_count=n&:origin=viz_share_link)  
 
-![myimage-alt-tag](https://github.com/halinakryvanos/SocialBuzz/blob/main/03%20Presentation_/Social_Buzz_Dashboard.png)
-
+![myimage-alt-tag](https://github.com/halinakryvanos/SocialBuzz/blob/main/03%20Presentation_/Social_Buzz_Dashboard..png)
 ## Conclusions
 The dataset was prepared by merging relevant columns from the Reaction, Content, and Reaction Types datasets using pandas merge operation.  
 
