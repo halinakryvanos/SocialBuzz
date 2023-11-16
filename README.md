@@ -30,7 +30,7 @@ An audit company big data practice
 
 + Recommendations for a successful IPO  
 + An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
-+ 
+  
 ## Tasks to do
 + Extraction of sample data sets  
 + Merging of sample data set tables    
