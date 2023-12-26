@@ -39,7 +39,7 @@ Score: This is a number calculated by Social Buzz that quantifies how “popular
 
 ## Data Analysis and Visualization
 
-Follow the link to view the interactive Dashboard. [Tableau](https://public.tableau.com/views/SosialBuzzDashboard_16984171453280/SocialBuzz3?:language=en-US&:display_count=n&:origin=viz_share_link)  
+Follow the link to view the interactive Dashboard. [Tableau]([https://public.tableau.com/views/SosialBuzzDashboard_16984171453280/SocialBuzz3?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/halina.kryvanos/viz/SosialBuzzDashboard_16984171453280/SocialBuzz)  
 
 ![myimage-alt-tag](https://github.com/halinakryvanos/SocialBuzz/blob/main/03%20Presentation_/Social_Buzz_Dashboard..png)
 ## Conclusions
